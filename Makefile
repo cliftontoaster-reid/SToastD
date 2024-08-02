@@ -6,11 +6,11 @@
 #    By: lfiorell <lfiorell@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2001/08/02 11:21:12 by lfiorell          #+#    #+#              #
-#    Updated: 2024/08/02 11:24:30 by lfiorell         ###   ########.fr        #
+#    Updated: 2024/08/02 12:15:55 by lfiorell         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = libft.a
+NAME = stastd.a
 CC = gcc
 INC = include/
 CFLAGS = -Wall -Wextra -Werror $(addprefix "-I", $(INC))
